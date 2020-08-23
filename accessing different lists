@@ -1,0 +1,26 @@
+numbers1 = {1,3,5,7,8,9}
+numbers2 = {10,20,30,40,50,60,70}
+
+print(numbers1)
+
+we can print both nos. using this method.
+
+numbers1 = {1,3,5,7,8,9}
+numbers2 = {10,20,30,40,50,60,70}
+
+print(numbers1+numbers2)
+
+
+we can add both no in lists 
+
+
+numbers1 = {1,3,5,7,8,9}
+numbers2 = {10,20,30,40,50,60,70}
+
+numbers1(3)
+
+
+we can access any no selecting its index no
+
+
+
